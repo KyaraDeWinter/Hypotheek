@@ -1,0 +1,14 @@
+C:\Users\kyara\OneDrive\Documenten\Leerjaar 4\Testen\Hypo\Hypo\bin\Debug\net7.0\Hypo.exe
+C:\Users\kyara\OneDrive\Documenten\Leerjaar 4\Testen\Hypo\Hypo\bin\Debug\net7.0\Hypo.deps.json
+C:\Users\kyara\OneDrive\Documenten\Leerjaar 4\Testen\Hypo\Hypo\bin\Debug\net7.0\Hypo.runtimeconfig.json
+C:\Users\kyara\OneDrive\Documenten\Leerjaar 4\Testen\Hypo\Hypo\bin\Debug\net7.0\Hypo.dll
+C:\Users\kyara\OneDrive\Documenten\Leerjaar 4\Testen\Hypo\Hypo\bin\Debug\net7.0\Hypo.pdb
+C:\Users\kyara\OneDrive\Documenten\Leerjaar 4\Testen\Hypo\Hypo\obj\Debug\net7.0\Hypo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kyara\OneDrive\Documenten\Leerjaar 4\Testen\Hypo\Hypo\obj\Debug\net7.0\Hypo.AssemblyInfoInputs.cache
+C:\Users\kyara\OneDrive\Documenten\Leerjaar 4\Testen\Hypo\Hypo\obj\Debug\net7.0\Hypo.AssemblyInfo.cs
+C:\Users\kyara\OneDrive\Documenten\Leerjaar 4\Testen\Hypo\Hypo\obj\Debug\net7.0\Hypo.csproj.CoreCompileInputs.cache
+C:\Users\kyara\OneDrive\Documenten\Leerjaar 4\Testen\Hypo\Hypo\obj\Debug\net7.0\Hypo.dll
+C:\Users\kyara\OneDrive\Documenten\Leerjaar 4\Testen\Hypo\Hypo\obj\Debug\net7.0\refint\Hypo.dll
+C:\Users\kyara\OneDrive\Documenten\Leerjaar 4\Testen\Hypo\Hypo\obj\Debug\net7.0\Hypo.pdb
+C:\Users\kyara\OneDrive\Documenten\Leerjaar 4\Testen\Hypo\Hypo\obj\Debug\net7.0\Hypo.genruntimeconfig.cache
+C:\Users\kyara\OneDrive\Documenten\Leerjaar 4\Testen\Hypo\Hypo\obj\Debug\net7.0\ref\Hypo.dll
